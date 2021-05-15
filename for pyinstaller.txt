@@ -1,0 +1,1 @@
+pyinstaller --paths -i 1.ico -n SRdirect -w -F --clean --log-level DEBUG accountcheck.py

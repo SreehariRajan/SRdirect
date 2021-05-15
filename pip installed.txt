@@ -1,0 +1,72 @@
+pyqt5
+pil 
+mysql.connector
+roman #conver to roman
+pywin32 #printing...
+datetime# current date
+os# for relative path..
+regex # for checking special characters
+pip install opencv-python
+for making .exe make sure that the pip installed modules are included...
+and also the way used to view images(using output folder) can be changed by using how the JPGs are viewed in "tablewidgettry" in uis folder..........********************
+
+
+
+photo not available sheryakanm
+ella view cheynelm 300 aakiseteyanm
+about label size exeedeythal thazhotek pokena reethityakanm..viewl address kanikumbile preshnam and also in names and class teacher sometimes
+mod01 class set chetythita..labelil
+very important..............promote clas soption cell editeyumbo ezhuthyath overwrite akunu...mattanm marakale
+addclass typakanm(patuengil update too)
+address view cheyumbo number lines kutanon nokanm important allengil oru scroll bar vechitullath vekan aakanm marakale mone
+promoteclass and viewclass readonly should be made to photo column also...compulsory....
+password visiblitinde tab usecheyth clickeyan patunila
+print username at change and forget password (marakaruth ketto compulsory mone)
+printing details of search command
+mysql except as error time invalid enn label varunath nallathann
+admin windowl forget and change password option tab enter work cheyunila
+username changeyan oru optionum kodukanm i think discuss and finf (####important))
+create accoutn cancel clickeythal are you sure enna window veranm
+eye for visibility tab rderil iland nikanoo?????.......
+elletgilm correct if vechita inputeyumbo...
+vewclass athin sorting time onm ilengil no record en display cheyanm
+class adeyumbo or mod or promote cheyumbo above 12 avoideyanm invalid entryn parayanm
+promoteclass tab order
+promote class promote header should also give green colour
+ellethilm tab order vazhi enter clickeyan patunila....resolve it
+photo illengil no photo availablen kannikanm viewl
+reverse tab order checkeyanm...working alla..orpan very very very important
+then eye ille visibility athina tab order last include cheyande..oro fieldindedk vekanda..inefficientann..marakale mone
+promoteclass 12thanelgil division vekanda tablelil
+forget password...look cherye probs
+mod0
+mod001
+mod01
+deleteview
+deleteviewc
+del3
+del2
+del1
+modifyview
+modifyviewc
+modify2
+modify2c
+mod1
+mod2
+mod3
+promote
+promoteclass
+view2x
+view03
+view01
+view1
+viewclass
+view0
+view2
+view
+first
+delete
+admin
+addview
+add
+menu
